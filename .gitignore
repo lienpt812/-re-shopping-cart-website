@@ -40,3 +40,6 @@ out/
 .env
 .env.prod
 .env.local
+.env.example
+ca.pem
+re-shopping-cart-key-pair.pem
